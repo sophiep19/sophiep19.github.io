@@ -1,0 +1,29 @@
+.container{
+    background-color: #3e144d; 
+    width: 100%;
+    padding-bottom: 5%
+ padding-right: 10%
+}
+   
+
+a:link {color:aqua;}
+a:visited {color:blanchedalmond;}
+  a:hover {color:skyblue;}
+img {
+    
+    
+    width: 800px;
+    }
+     a   text-decoration:none;
+    }
+    ul {
+      
+        list-style-type:none;
+    }
+
+li{display:inline-block;
+    padding-right: 35%}
+nav {
+    border:1px #ff00f7 solid;
+    
+}
