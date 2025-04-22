@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #1e4f5f;
+  font-weight: bold;
+}
+
+.hover-glow:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px rgba(30, 79, 95, 0.3);
+  transition: all 0.3s ease-in-out;
+}
